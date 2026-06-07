@@ -20,4 +20,6 @@ Supports data-driven decisions for inventory, marketing, and sales optimization
 🎯 Business Value
 This dashboard helps stakeholders monitor sales performance, identify customer purchasing behavior, optimize menu offerings, and improve revenue generation through data-driven insights.
 
-Example: (Dashboard Preview) https://github.com/Anand7-lab/Business-Performance-Dashboard/blob/main/Performance%20Insights.png
+## Dashboard Preview
+
+![Business Performance Dashboard](https://raw.githubusercontent.com/Anand7-lab/Business-Performance-Dashboard/main/Performance%20Insights.png)
