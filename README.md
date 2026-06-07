@@ -3,18 +3,18 @@ A comprehensive Power BI dashboard built to monitor and evaluate business perfor
 
 Key Capabilities:
 
-Revenue and sales performance tracking
-KPI monitoring and trend analysis
-Product and category performance evaluation
-Customer purchasing behavior insights
-Peak demand and seasonality analysis
-Interactive filtering and drill-down exploration
+Revenue and sales performance tracking,
+KPI monitoring and trend analysis,
+Product and category performance evaluation,
+Customer purchasing behavior insights,
+Peak demand and seasonality analysis,
+Interactive filtering and drill-down exploration,
 
 Business Impact:
 
-Identifies top and underperforming products
-Highlights revenue-driving categories
-Reveals customer ordering patterns and peak sales periods
+Identifies top and underperforming products,
+Highlights revenue-driving categories,
+Reveals customer ordering patterns and peak sales periods,
 Supports data-driven decisions for inventory, marketing, and sales optimization
 
 🎯 Business Value
